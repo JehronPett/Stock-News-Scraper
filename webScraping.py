@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import requests #I feel like this does the same thing^
-import bs4 #This is where the money is made boy, this module allows me to scrape information from websites
+import bs4 #This is where the money is made, this module allows me to scrape information from websites
 import smtplib
 import datetime
 
